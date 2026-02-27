@@ -1,0 +1,14 @@
+.risk-container {
+  width: 100%;
+  background: #ddd;
+  border-radius: 10px;
+}
+
+.risk-bar {
+  height: 25px;
+  background: linear-gradient(to right, green, yellow, red);
+  border-radius: 10px;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+}
